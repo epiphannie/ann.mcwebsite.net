@@ -212,7 +212,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(44, 143, 146, 0.9);
+  background-color: rgba(68, 195, 199, 0.9);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -338,7 +338,7 @@ a {
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: #32a3a6;
 }
 
 .btn {
@@ -367,8 +367,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: #32a3a6;
+  border-color: #32a3a6;
 }
 
 .btn-secondary {
@@ -379,4 +379,13 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+#profile-pic {
+  width: 25%;
+  height: auto;
+}
+
+#contact-div {
+  text-align: center;
 }
